@@ -1,0 +1,12 @@
+{
+  "name": "store-shots",
+  "version": "0.1.0",
+  "description": "Marketing images from app screenshots: phones and windows on a soft background with handwritten notes, Google Play 2:1 padding, and a feature graphic.",
+  "type": "module",
+  "bin": { "store-shots": "bin/store-shots.mjs" },
+  "files": ["bin"],
+  "engines": { "node": ">=20" },
+  "dependencies": { "playwright": "^1.56.0" },
+  "license": "MIT",
+  "repository": "github:voypalante/store-shots"
+}

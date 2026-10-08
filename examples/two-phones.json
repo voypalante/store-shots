@@ -1,0 +1,14 @@
+{
+  "width": 1600,
+  "height": 1200,
+  "out": "two-phones.jpg",
+  "background": { "from": "#fbf3ea", "to": "#ecd3c2", "at": "30% 20%" },
+  "items": [
+    { "type": "phone", "src": "screens/journal.png", "x": 330, "y": 150, "width": 420, "rotate": -5 },
+    { "type": "phone", "src": "screens/approve.png", "x": 830, "y": 110, "width": 420, "rotate": 4 }
+  ],
+  "notes": [
+    { "text": "no passwords.", "sub": "just your thumb.", "x": 90, "y": 950, "rotate": -3 },
+    { "text": "yes, that's me", "sub": "signing in from the laptop", "align": "right", "right": 70, "y": 900, "rotate": 3 }
+  ]
+}

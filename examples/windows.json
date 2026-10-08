@@ -1,0 +1,14 @@
+{
+  "width": 2000,
+  "height": 1250,
+  "out": "windows.jpg",
+  "background": { "from": "#f7efe6", "to": "#d9c6b3", "at": "50% 0%" },
+  "items": [
+    { "type": "window", "src": "screens/blog-paper.png", "x": 60, "y": 90, "width": 980, "rotate": -4 },
+    { "type": "window", "src": "screens/blog-night.png", "x": 930, "y": 60, "width": 980, "rotate": 3 },
+    { "type": "phone", "src": "screens/calendar.png", "x": 1560, "y": 520, "width": 330, "rotate": 5, "bezel": 8, "radius": 36, "z": 2 }
+  ],
+  "notes": [
+    { "text": "pick a mood.", "sub": "change it whenever.", "x": 80, "y": 1060, "rotate": -2 }
+  ]
+}
